@@ -2,7 +2,7 @@
 
 #define PI 3.14159
 
-int main(){
+int main(void) {
     // 初始化数据
     float r;
     printf("请输入 r: ");
