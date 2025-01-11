@@ -1,7 +1,7 @@
-diff --git a/chapter0/main.c b/chapter0/main.c
+diff --git a/chapter00/main.c b/chapter00/main.c
 index 1f39d3d..7a90560 100644
---- a/chapter0/main.c
-+++ b/chapter0/main.c
+--- a/chapter00/main.c
++++ b/chapter00/main.c
 @@ -1,7 +1,24 @@
  #include <stdio.h>
 +#include "add_minus.h"
